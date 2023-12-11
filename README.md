@@ -1,6 +1,8 @@
-# HoverBaums Image Wizard
+# HoverBaums Image Wizard 🪄
 
 A Custom GPT for Midjourney prompt generation. It turns your ideas into fully fledged prompts for better results.
+
+[HoverBaums Image Wizard](https://chat.openai.com/g/g-jvU1LDhpM-hoverbaums-image-wizard)
 
 ## Usage
 
