@@ -1,5 +1,11 @@
 # HoverBaums Image Wizard 🪄
 
+<div style="display:flex;justify-content:center;">
+
+![Image Wizard Avatar](examples/avatar.png)
+
+</div>
+
 A Custom GPT for Midjourney prompt generation. It turns your ideas into fully fledged prompts for better results.
 
 [HoverBaums Image Wizard](https://chat.openai.com/g/g-jvU1LDhpM-hoverbaums-image-wizard)
